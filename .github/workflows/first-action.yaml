@@ -12,3 +12,4 @@ jobs:
 
       - name: Check Linting
         run: echo "Linting checking..."
+        # first-gh-action (this is a YAML comment, not part of the command)
